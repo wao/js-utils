@@ -1,7 +1,7 @@
 "use strict";
 
 var _ = require( "underscore" );
-var Debug = require( "debug" );
+var Debug = require( "./debug" );
 
 // If user doesn't specify a based class, YaBaseClass will be the base class.
 function YaBaseClass(){

@@ -1,7 +1,7 @@
 /* jshint debug:true */
 "use strict";
 
-var logger = require( "logger" )();
+var logger = require( "./logger" )();
 
 /**
  * Provide method help to debug application
